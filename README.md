@@ -7,4 +7,7 @@ Here, you'll find open-source projects that showcase my expertise in:
 - 🤖 **AI/ML Integration**: TensorFlow Lite, Core ML, ML Kit, on-device machine learning, and intelligent app features
 - 🧠 **Machine Learning**: Deep Learning, Computer Vision, NLP, and deploying AI models in production mobile apps
 
+## 🏆 Certifications
+- **Microsoft Certified: Azure AI Engineer Associate**
+
 Dive into my work, explore AI-powered mobile solutions, and feel free to collaborate 🤝!
