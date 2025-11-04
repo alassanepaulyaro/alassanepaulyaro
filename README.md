@@ -28,34 +28,69 @@ Here, you'll find open-source projects that showcase my expertise in:
 
 ### 📱 Mobile Applications
 
-#### [Project Name 1](https://github.com/alassanepaulyaro/project-1)
-**Description:** Android app built with Kotlin and Jetpack Compose showcasing modern architecture patterns (MVVM, Clean Architecture).
-**Tech Stack:** Kotlin, Jetpack Compose, Room, Retrofit, Hilt
-**Highlights:** Material Design 3, Offline-first architecture, Unit & UI tests
+#### [WeatherApplication](https://github.com/alassanepaulyaro/-WeatherApplication)
+**Description:** Real-time weather information mobile application with modern Android architecture.
+**Tech Stack:** Kotlin, Android SDK
+**Highlights:** Real-time data, Clean Architecture, Material Design
 
-#### [Project Name 2](https://github.com/alassanepaulyaro/project-2)
-**Description:** iOS application developed with Swift and SwiftUI implementing advanced UI/UX patterns.
-**Tech Stack:** Swift, SwiftUI, Combine, CoreData
-**Highlights:** Reactive programming, SOLID principles, Accessibility support
+#### [ChatBot AI Assistant](https://github.com/alassanepaulyaro/chatBotAIAssistant)
+**Description:** AI-powered chatbot assistant for Android with intelligent conversational capabilities.
+**Tech Stack:** Kotlin, AI/ML Integration
+**Highlights:** Natural language processing, Smart responses, Mobile AI
+
+#### [AppLeague](https://github.com/alassanepaulyaro/AppLeague)
+**Description:** Android application for league management and tracking.
+**Tech Stack:** Kotlin, Android SDK
+**Highlights:** MVVM architecture, Modern UI patterns
+
+#### [Account Management](https://github.com/alassanepaulyaro/Account)
+**Description:** Account and financial management Android application.
+**Tech Stack:** Kotlin, Android SDK
+**Highlights:** Secure data handling, User-friendly interface
 
 ### 🤖 AI/ML Projects
 
-#### [AI-Powered Mobile App](https://github.com/alassanepaulyaro/ai-project-1)
-**Description:** Intelligent mobile application with on-device machine learning for real-time predictions.
-**Tech Stack:** TensorFlow Lite, Core ML, Python, Kotlin/Swift
-**Highlights:** Custom trained model, Edge AI, Privacy-first design
+#### [MLOps Generative AI on AWS](https://github.com/alassanepaulyaro/mlopsgenerativeaiaws)
+**Description:** MLOps project demonstrating LLM deployment and inference using AWS services including SageMaker, Bedrock, Lambda, and S3.
+**Tech Stack:** Python, AWS SageMaker, AWS Bedrock, Lambda, S3
+**Highlights:** Generative AI, Cloud deployment, Scalable inference
 
-#### [Computer Vision Project](https://github.com/alassanepaulyaro/cv-project)
-**Description:** Computer vision solution for [specific use case] using deep learning.
-**Tech Stack:** Python, TensorFlow, OpenCV, Azure Cognitive Services
-**Highlights:** Real-time processing, Cloud integration, High accuracy
+#### [ChatBot GenAI with LangChain & Streamlit](https://github.com/alassanepaulyaro/chatbotgenai-langchain-streamlit)
+**Description:** Streamlit application demonstrating chatbot development using OpenAI's GPT with LangChain data aggregation.
+**Tech Stack:** Python, LangChain, Streamlit, OpenAI GPT
+**Highlights:** Advanced RAG, Interactive UI, Real-time responses
 
-### ⚙️ MLOps & Infrastructure
+#### [Data Science Wine Quality Prediction](https://github.com/alassanepaulyaro/datascienceproject)
+**Description:** Machine learning project for wine quality prediction using regression models, MLflow tracking, and Flask deployment.
+**Tech Stack:** Python, Jupyter Notebook, MLflow, Flask
+**Highlights:** Model tracking, End-to-end ML pipeline, REST API deployment
 
-#### [ML Pipeline Automation](https://github.com/alassanepaulyaro/mlops-pipeline)
-**Description:** End-to-end MLOps pipeline for model training, versioning, and deployment.
-**Tech Stack:** Azure ML, Docker, Kubernetes, Python
-**Highlights:** CI/CD integration, Model monitoring, Automated retraining
+#### [Machine Learning - Linear Regression](https://github.com/alassanepaulyaro/MachineLearning_linerar_regression_taxi)
+**Description:** Comprehensive machine learning projects covering linear regression, binary classification, and numerical data analysis.
+**Tech Stack:** Python, Scikit-learn, Pandas, NumPy
+**Highlights:** Statistical modeling, Data preprocessing, Model evaluation
+
+### ⚙️ MLOps & DevOps
+
+#### [ETL Pipeline with Airflow](https://github.com/alassanepaulyaro/ETLPipeline)
+**Description:** Production-ready ETL pipeline using Apache Airflow extracting astronomical data from NASA's APOD API to PostgreSQL.
+**Tech Stack:** Python, Apache Airflow, PostgreSQL, NASA API
+**Highlights:** Automated data extraction, Scheduled workflows, Data warehousing
+
+#### [Airflow Astronomer](https://github.com/alassanepaulyaro/aiflow-astronomer)
+**Description:** Apache Airflow learning environment demonstrating DAG creation, TaskFlow API, XCom, and dynamic task mapping.
+**Tech Stack:** Python, Apache Airflow, Astronomer
+**Highlights:** Advanced DAG patterns, TaskFlow API, Best practices
+
+#### [Docker Image Hub CI/CD](https://github.com/alassanepaulyaro/dockerImageHub)
+**Description:** CI/CD pipeline demonstration showcasing Flask application building, testing, and Docker Hub deployment via GitHub Actions.
+**Tech Stack:** Docker, GitHub Actions, Flask, Python
+**Highlights:** Automated deployment, Container orchestration, CI/CD best practices
+
+#### [GitHub Actions CI/CD Pipeline](https://github.com/alassanepaulyaro/appGitHubAction)
+**Description:** CI/CD pipeline demonstration using GitHub Actions for Python applications with automated testing.
+**Tech Stack:** GitHub Actions, Python, pytest
+**Highlights:** Automated testing, Continuous integration, Workflow automation
 
 ---
 
