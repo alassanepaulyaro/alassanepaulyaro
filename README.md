@@ -7,15 +7,23 @@ Here, you'll find open-source projects that showcase my expertise in:
 ### 📱 Mobile Development
 - **Native Development**: Modern architectures (MVVM, Clean Architecture), Jetpack Compose, SwiftUI, AOSP, and KMP
 - **Cross-Platform**: Kotlin Multiplatform (KMP) for shared business logic
+- **Android & iOS**: 18 production-ready mobile applications with modern tech stacks
 
-### 🤖 AI/Machine Learning
+### 🤖 AI Agents & Agentic AI
+- **Multi-Agent Systems**: LangGraph, CrewAI, Microsoft AutoGen, BeeAI Framework
+- **Agent Orchestration**: Building autonomous AI agents with complex workflows
+- **Protocol Implementations**: Model Context Protocol (MCP) integrations and patterns
+
+### 🧠 AI/Machine Learning & GenAI
+- **LLM Fine-Tuning**: Parameter-efficient and full fine-tuning for domain adaptation
+- **Local AI Deployment**: Ollama, DeepSeek, and open-source LLM implementations
 - **On-Device AI**: TensorFlow Lite, Core ML, ML Kit integration for intelligent mobile features
 - **Deep Learning**: Computer Vision, Natural Language Processing (NLP), and neural networks
-- **AI Solutions**: End-to-end AI solution architecture and deployment
 
-### ⚙️ MLOps & DevOps
-- **ML Pipeline**: Model training, versioning, and deployment automation
+### ⚙️ MLOps & Data Engineering
+- **ML Pipelines**: Model training, versioning, and deployment automation on AWS & Azure
 - **Azure AI Services**: Cognitive Services, Azure ML, and cloud-based AI solutions
+- **Data Orchestration**: Apache Airflow, ETL pipelines, and workflow automation
 - **CI/CD**: Automated testing and deployment for AI-powered applications
 
 ## 🏆 Certifications
