@@ -24,7 +24,7 @@ Here, you'll find open-source projects that showcase my expertise in:
 
 ---
 
-## 🚀 Complete Project Portfolio (39 Repositories)
+## 🚀 Complete Project Portfolio (49 Repositories)
 
 ### 📱 Android Applications (Kotlin)
 
@@ -41,16 +41,16 @@ Here, you'll find open-source projects that showcase my expertise in:
 **Tech Stack:** Kotlin, Jetpack Compose | **Highlights:** Declarative UI, State management
 
 #### [ChatBot AI Assistant](https://github.com/alassanepaulyaro/chatBotAIAssistant)
-**Description:** AI-powered chatbot assistant for Android with intelligent conversational capabilities.
-**Tech Stack:** Kotlin, AI/ML Integration | **Highlights:** NLP, Smart responses, Mobile AI
+**Description:** Android app demonstrating OpenAI API integration with chat conversations, speech recognition (Speech-to-Text), Text-to-Speech, local message persistence with Room database.
+**Tech Stack:** Kotlin, OpenAI API, Room, Clean Architecture | **Highlights:** Voice input/output, MVVM pattern, Offline storage
 
 #### [AppLeague](https://github.com/alassanepaulyaro/AppLeague)
 **Description:** Android application for league management and tracking.
 **Tech Stack:** Kotlin, Android SDK | **Highlights:** MVVM architecture, Modern UI patterns
 
 #### [Account](https://github.com/alassanepaulyaro/Account)
-**Description:** Account and financial management Android application.
-**Tech Stack:** Kotlin, Android SDK | **Highlights:** Secure data handling, User-friendly interface
+**Description:** Modern Android banking application for managing multiple bank accounts, tracking transactions, and accessing banking services from Credit Agricole and other financial institutions.
+**Tech Stack:** Kotlin, Android SDK | **Highlights:** Multi-account management, Transaction tracking, Banking services
 
 #### [MusicApp](https://github.com/alassanepaulyaro/MusicApp)
 **Description:** Music player application for Android.
@@ -71,38 +71,80 @@ Here, you'll find open-source projects that showcase my expertise in:
 **Tech Stack:** Swift, SwiftUI, WatchOS | **Highlights:** Wearable app, Minimal UI
 
 #### [SwiftUIProject9-Devote](https://github.com/alassanepaulyaro/SwiftUIProject9-Devote)
-**Description:** Task management app with SwiftUI.
-**Tech Stack:** Swift, SwiftUI | **Highlights:** Core Data, Haptics, Sound effects
+**Description:** Beautiful daily task management app with clean interface, smooth animations, and delightful user interactions.
+**Tech Stack:** Swift, SwiftUI, Core Data | **Highlights:** Haptics, Sound effects, Data persistence
 
 #### [SwiftUIProject8-Touchdown](https://github.com/alassanepaulyaro/SwiftUIProject8-Touchdown)
-**Description:** E-commerce app interface with SwiftUI.
-**Tech Stack:** Swift, SwiftUI | **Highlights:** Custom UI, Animations
+**Description:** Elegant e-commerce iOS application for American football gear showcasing modern design patterns.
+**Tech Stack:** Swift, SwiftUI | **Highlights:** State management, Custom UI components, Responsive design
 
 #### [SwiftUIProject7-Africa](https://github.com/alassanepaulyaro/SwiftUIProject7-Africa)
-**Description:** Educational app about African wildlife.
-**Tech Stack:** Swift, SwiftUI | **Highlights:** Rich content, Interactive UI
+**Description:** Comprehensive educational app providing immersive experience about African wildlife.
+**Tech Stack:** Swift, SwiftUI | **Highlights:** Rich multimedia content, Interactive galleries, Educational information
 
 #### [SwiftUIProject6-Fructus](https://github.com/alassanepaulyaro/SwiftUIProject6-Fructus)
-**Description:** Fruit information and nutrition app.
-**Tech Stack:** Swift, SwiftUI | **Highlights:** Onboarding, App Storage
+**Description:** Beautifully designed app providing comprehensive information about fruits including nutritional values and facts.
+**Tech Stack:** Swift, SwiftUI | **Highlights:** Onboarding experience, App Storage, Custom animations
 
 #### [SwiftUIProject5-Pinch](https://github.com/alassanepaulyaro/SwiftUIProject5-Pinch)
-**Description:** Image viewer with pinch-to-zoom gestures.
-**Tech Stack:** Swift, SwiftUI | **Highlights:** Gesture recognition, Animations
+**Description:** Modern image viewer demonstrating advanced gesture handling and interactive image manipulation.
+**Tech Stack:** Swift, SwiftUI | **Highlights:** Pinch-to-zoom, Double-tap, Drag gestures
 
 #### [SwiftUIProject4-Wishlist](https://github.com/alassanepaulyaro/SwiftUIProject4-Wishlist)
-**Description:** Personal wishlist management app.
-**Tech Stack:** Swift, SwiftUI | **Highlights:** Data persistence, Modern UI
+**Description:** Modern wishlist application built with SwiftData for creating and managing wishes with elegant interface.
+**Tech Stack:** Swift, SwiftUI, SwiftData | **Highlights:** Data persistence, CRUD operations, Modern design
 
 #### [SwiftUIProject3-Restart](https://github.com/alassanepaulyaro/SwiftUIProject3-Restart)
-**Description:** Onboarding experience app with animations.
-**Tech Stack:** Swift, SwiftUI | **Highlights:** Complex animations, Gestures
+**Description:** Modern onboarding experience featuring interactive animations and gesture-based interactions.
+**Tech Stack:** Swift, SwiftUI | **Highlights:** Complex animations, Immersive feedback, Gesture recognition
 
 #### [SwiftUIProject2-Hike](https://github.com/alassanepaulyaro/SwiftUIProject2-hike)
-**Description:** Hiking trail information and visualization app.
-**Tech Stack:** Swift, SwiftUI | **Highlights:** Charts, Animations
+**Description:** Visually-focused hiking trail explorer showcasing iOS design patterns with imagery and customization features.
+**Tech Stack:** Swift, SwiftUI | **Highlights:** Smooth animations, Charts, Dynamic customization
 
-### 🤖 AI/ML & Generative AI
+### 🤖 AI Agents & Agentic AI
+
+#### [LangGraph LangChain Agentic AI](https://github.com/alassanepaulyaro/langgraph-langchain-agentic-ai)
+**Description:** Practical guide to design and orchestrate agentic AI applications using LangGraph and LangChain, integrating OpenAI, Ollama, and open-source LLMs.
+**Tech Stack:** Python, LangGraph, LangChain, OpenAI, Ollama | **Highlights:** Agent orchestration, Multi-LLM support, Practical examples
+
+#### [CrewAI Agent](https://github.com/alassanepaulyaro/crew-ai-agent)
+**Description:** Flexible CrewAI-based AI agent system supporting multiple LLM providers: Ollama (local), Groq (cloud), and OpenAI (cloud).
+**Tech Stack:** Python, CrewAI, Ollama, Groq, OpenAI | **Highlights:** Multi-provider support, Local & cloud LLMs, Modular design
+
+#### [Microsoft AutoGen AI](https://github.com/alassanepaulyaro/autogen-ai)
+**Description:** Comprehensive collection of Microsoft AutoGen framework examples and applications showcasing multi-agent systems.
+**Tech Stack:** Python, AutoGen, LLMs | **Highlights:** Multi-agent collaboration, Conversational AI, Framework examples
+
+#### [Microsoft Bee Agent AI](https://github.com/alassanepaulyaro/microsoft-bee-agent-ai)
+**Description:** Comprehensive AI agent implementations using BeeAI Framework (formerly IBM Bee Agent Framework) with local LLM support via Ollama.
+**Tech Stack:** JavaScript, BeeAI Framework, Ollama | **Highlights:** Local LLM integration, Agent patterns, JavaScript implementation
+
+#### [MCP Agentic](https://github.com/alassanepaulyaro/Mcp-agentic)
+**Description:** MCP (Model Context Protocol) implementations demonstrating various integration patterns with AI agents, LLMs, and external services.
+**Tech Stack:** Python, MCP | **Highlights:** Protocol implementations, Agent integrations, Service orchestration
+
+### 🧠 AI/ML & Generative AI Applications
+
+#### [Fine-Tune LLM Models](https://github.com/alassanepaulyaro/fine-tune-llm-model)
+**Description:** Fine-tuning implementations for various Large Language Models. Provides ready-to-use pipelines for parameter-efficient and full fine-tuning across multiple domains.
+**Tech Stack:** Python, Jupyter Notebook, Transformers, PyTorch | **Highlights:** PEFT methods, Multiple model architectures, Domain adaptation
+
+#### [AI App with Ollama DeepSeek LangChain](https://github.com/alassanepaulyaro/ai-app-using-ollama-deepseek-langchain)
+**Description:** End-to-end GenAI application with DeepSeek-R1, Langchain, and Ollama. Advanced local code, debugging, and document Q&A platform.
+**Tech Stack:** Python, Ollama, DeepSeek, LangChain, FAISS, Streamlit | **Highlights:** Local LLM deployment, Code analysis, Document Q&A
+
+#### [Translate PDF with LLMs](https://github.com/alassanepaulyaro/translate-pdf-with-llms-langchain)
+**Description:** Streamlit application for automatic translation of books/documents (PDF, DOCX, EPUB) using local Ollama-compatible LLMs while preserving structure.
+**Tech Stack:** Python, Streamlit, LangChain, Ollama | **Highlights:** Local translation, Format preservation, Multiple file types
+
+#### [Integration and Deployment of GenAI Models](https://github.com/alassanepaulyaro/Integration-and-Deployment-of-GenAI-Models)
+**Description:** Comprehensive repository showcasing integration, deployment, and orchestration of multiple GenAI models and frameworks across diverse use cases.
+**Tech Stack:** Python, Multiple GenAI Frameworks | **Highlights:** Model orchestration, Deployment patterns, Production-ready
+
+#### [ML FastAPI Docker](https://github.com/alassanepaulyaro/ml-fastapi-docker)
+**Description:** Monorepo containing multiple production-ready ML API projects using FastAPI, Streamlit, Docker, and modern ML tooling with automated tests.
+**Tech Stack:** Python, FastAPI, Streamlit, Docker, Jupyter Notebook | **Highlights:** Microservices, Containerized APIs, Full test coverage
 
 #### [MLOps Generative AI on AWS](https://github.com/alassanepaulyaro/mlopsgenerativeaiaws)
 **Description:** Production-ready LLM deployment and inference using AWS SageMaker, Bedrock, Lambda, and S3.
