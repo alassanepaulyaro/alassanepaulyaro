@@ -29,6 +29,8 @@ Here, you'll find open-source projects that showcase my expertise in:
 ## 🏆 Certifications
 - **Microsoft Certified: Azure AI Engineer Associate**
   - Specialization: AI Solutions Architecture & Implementation
+- **Microsoft Certified: DevOps Engineer Expert**
+- **Microsoft Certified: Azure Developer Associate**
 
 ---
 
