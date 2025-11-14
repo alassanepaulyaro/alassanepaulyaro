@@ -4,11 +4,6 @@ Welcome to my GitHub repository! I'm a **Senior Mobile Developer & AI/ML/MLOps E
 
 Here, you'll find open-source projects that showcase my expertise in:
 
-### 📱 Mobile Development
-- **Native Development**: Modern architectures (MVVM, Clean Architecture), Jetpack Compose, SwiftUI, AOSP, and KMP
-- **Cross-Platform**: Kotlin Multiplatform (KMP) for shared business logic
-- **Android & iOS**: 18 production-ready mobile applications with modern tech stacks
-
 ### 🤖 AI Agents & Agentic AI
 - **Multi-Agent Systems**: LangGraph, CrewAI, Microsoft AutoGen, BeeAI Framework
 - **Agent Orchestration**: Building autonomous AI agents with complex workflows
@@ -25,6 +20,11 @@ Here, you'll find open-source projects that showcase my expertise in:
 - **Azure AI Services**: Cognitive Services, Azure ML, and cloud-based AI solutions
 - **Data Orchestration**: Apache Airflow, ETL pipelines, and workflow automation
 - **CI/CD**: Automated testing and deployment for AI-powered applications
+
+### 📱 Mobile Development
+- **Native Development**: Modern architectures (MVVM, Clean Architecture), Jetpack Compose, SwiftUI, AOSP, and KMP
+- **Cross-Platform**: Kotlin Multiplatform (KMP) for shared business logic
+- **Android & iOS**: 18 production-ready mobile applications with modern tech stacks
 
 ## 🏆 Certifications
 - **Microsoft Certified: Azure AI Engineer Associate**
