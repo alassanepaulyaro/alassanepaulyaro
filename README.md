@@ -34,7 +34,7 @@ Here, you'll find open-source projects that showcase my expertise in:
 
 ---
 
-## 🚀 Complete Project Portfolio (49 Repositories)
+## 🚀 Complete Project Portfolio (51 Repositories)
 
 ### 📱 Android Applications (Kotlin)
 
@@ -114,6 +114,10 @@ Here, you'll find open-source projects that showcase my expertise in:
 
 ### 🤖 AI Agents & Agentic AI
 
+#### [AgentCore Bedrock Agent](https://github.com/alassanepaulyaro/agentcore-bedrock-agent)
+**Description:** Production-ready agentic reasoning and orchestration layer within Amazon Bedrock AgentCore. Features Lt. Commander Data as agent persona, showcasing multiple AI agent implementation patterns from pure OpenAI-based systems to AWS-deployed production solutions.
+**Tech Stack:** Python, AWS Bedrock, AgentCore, OpenAI Agents SDK, LangChain, Strands, Cognito, CloudWatch | **Highlights:** Persistent conversation memory, Secure code execution, Vector store integration, OAuth 2.0 authentication, Multi-framework support, CloudWatch observability
+
 #### [LangGraph LangChain Agentic AI](https://github.com/alassanepaulyaro/langgraph-langchain-agentic-ai)
 **Description:** Practical guide to design and orchestrate agentic AI applications using LangGraph and LangChain, integrating OpenAI, Ollama, and open-source LLMs.
 **Tech Stack:** Python, LangGraph, LangChain, OpenAI, Ollama | **Highlights:** Agent orchestration, Multi-LLM support, Practical examples
@@ -135,6 +139,10 @@ Here, you'll find open-source projects that showcase my expertise in:
 **Tech Stack:** Python, MCP | **Highlights:** Protocol implementations, Agent integrations, Service orchestration
 
 ### 🧠 AI/ML & Generative AI Applications
+
+#### [Exploring Real-World Use Cases for AI LLM Models](https://github.com/alassanepaulyaro/exploring-real-world-use-case-for-ai-llm-models)
+**Description:** Comprehensive suite of 43 AI-powered applications organized into two main hubs: Chatbot Assistant AI (34 apps) and Word Processing with AI (9 apps). Privacy-first architecture with 100% local processing using Ollama, supporting productivity planning, content creation, lifestyle advice, document processing, and data analysis.
+**Tech Stack:** Python, Ollama, Streamlit, Mistral, Llama 3.1, Qwen, CodeLlama | **Highlights:** Local LLM processing, Multi-language support, Export to PDF/DOCX/JSON/Markdown, Unified dashboard, Real-time monitoring
 
 #### [Fine-Tune LLM Models](https://github.com/alassanepaulyaro/fine-tune-llm-model)
 **Description:** Fine-tuning implementations for various Large Language Models. Provides ready-to-use pipelines for parameter-efficient and full fine-tuning across multiple domains.
